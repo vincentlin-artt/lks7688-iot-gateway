@@ -5,17 +5,9 @@
   "keywords": [
     "iot"
   ],
-  "author": "jollen <jollen@jollen.org> (http://jollen.org/)",
+  "author": "vincentlin_artt",
   "dependencies": {
     "wotcity.io": "^0.9.3"
-  },
-  "scripts": {},
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-jshint": "^2.0.4",
-    "gulp-load-plugins": "^1.5.0",
-    "jshint": "^2.9.5",
-    "jshint-stylish": "^2.2.1"
   },
   "license": "MIT License"
 }
